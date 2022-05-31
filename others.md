@@ -1,3 +1,10 @@
+* [自动化测试：你应当了解的一切](https://juejin.cn/post/7084071159821500447)（[samyu2000](https://github.com/samyu2000) 翻译）
+* [使用了三个月的 Github Copilot，这是我的一些看法……](https://juejin.cn/post/7067817036738461732)（[jaredliw](https://github.com/jaredliw) 翻译）
+* [5 个有趣的原因告诉你：找对象就得找程序员！](https://juejin.cn/post/7053326045352558599)（[jaredliw](https://github.com/jaredliw) 翻译）
+* [WasmEdge 的安装与卸载](https://github.com/xitu/gold-miner/blob/master/article/2022/Install-and-uninstall-WasmEdge.md)（[jaredliw](https://github.com/jaredliw) 翻译）
+* [使用 Python 模拟实现行星际空间旅行](https://juejin.cn/post/7047685861365776414)（[zenblofe](https://github.com/zenblofe) 翻译）
+* [100 个能提升软件开发效率的小技巧](https://juejin.cn/post/7049260702850105374)（[jaredliw](https://github.com/jaredliw) 翻译）
+* [Web 的未来](https://juejin.cn/post/7006492657379704846)（[Gesj-yean](https://github.com/Gesj-yean) 翻译）
 * [可以在 GitHub.dev 做的十件有趣的事](https://juejin.cn/post/7004738629092261895)（[greycodee](https://github.com/greycodee) 翻译）
 * [分布式追踪事项](https://juejin.cn/post/7002917628326969381)（[ItzMiracleOwO](https://github.com/ItzMiracleOwO) 翻译）
 * [常见的社会工程攻击策略](https://juejin.cn/post/6999561784705155102)（[jaredliw](https://github.com/jaredliw) 翻译）
@@ -47,7 +54,7 @@
 * [Ubuntu 20.04 会不会偷走更多的 Windows 用户？](https://juejin.im/post/5ec4e7926fb9a0480067b602)（[z0gSh1u](https://github.com/z0gSh1u) 翻译）
 * [如何编写可节省您时间的日志文件](https://juejin.im/post/5edf8d636fb9a047cd65d136)（[PingHGao](https://github.com/PingHGao) 翻译）
 * [理解 zip 和 gzip 压缩格式背后的压缩算法](https://juejin.im/post/5ecb7f9651882542f4488845)（[JohnieXu](https://github.com/JohnieXu) 翻译）
-* [如何编写整洁代码？从 Robert C. Martin 的“代码整洁之道”中吸取的教训](https://juejin.im/post/5eb78370f265da7be959ffc2)（[todaycoder001](https://github.com/todaycoder001) 翻译）
+* [如何编写整洁代码？从 Robert C. Martin 的“代码整洁之道”中吸取的教训](https://juejin.im/post/5eb78370f265da7be959ffc2)（[司徒公子](https://github.com/stuchilde) 翻译）
 * [如何在自己的计算机上模拟 UDP Flood DoS 攻击](https://juejin.im/post/5eb8fb09e51d4540bb6172e1)（[chaingangway](https://github.com/chaingangway) 翻译）
 * [Google Tag Manager 的真相大揭秘](https://juejin.im/post/5ea41a43f265da47c15cdc53)（[zhanght9527](https://github.com/zhanght9527) 翻译）
 * [开发者应该写博客的各种原因](https://juejin.im/post/5ea7eb586fb9a043867d4763)（[PingHGao](https://github.com/PingHGao) 翻译）
@@ -58,15 +65,15 @@
 * [云服务如何帮助你提高业务效率？](https://juejin.im/post/5e8d07a96fb9a03c73797cef)（[QinRoc](https://github.com/QinRoc) 翻译）
 * [作为 2020 年的开发者，你应该学习 VIM 吗？](https://juejin.im/post/5e8d3205518825737a314e58)（[chaingangway](https://github.com/chaingangway) 翻译）
 * [Git 的历史：软件版本控制的统治之路](https://juejin.im/post/5e69ce5af265da576e64b326)（[fireairforce](https://github.com/fireairforce) 翻译）
-* [2020 年要学习的 7 种编程语言和框架](https://juejin.im/post/5e663cec518825496e786051)（[todaycoder001](https://github.com/todaycoder001) 翻译）
+* [2020 年要学习的 7 种编程语言和框架](https://juejin.im/post/5e663cec518825496e786051)（[司徒公子](https://github.com/stuchilde) 翻译）
 * [如何写出优雅且有意义的 README.md](https://juejin.im/post/5e3a7363e51d452701795512)（[cyz980908](https://github.com/cyz980908) 翻译）
 * [再见，整洁的代码](https://juejin.im/post/5e2411e0f265da3e4244e683)（[zh1an](https://github.com/zh1an) 翻译）
 * [现在就该学习的 7 门现代编程语言](https://juejin.im/post/5e1e00fee51d4577794c04f8)（[lihaobhsfer](https://github.com/lihaobhsfer) 翻译）
 * [如何为求职准备你的 GitHub](https://juejin.im/post/5e1310a8f265da5d7275de8e)（[nettee](https://github.com/nettee) 翻译）
 * [我个人的 Git 技巧备忘录](https://juejin.im/post/5e006ad4e51d45582248e63f)（[Pingren](https://github.com/Pingren) 翻译）
-* [如何确定团队工作的优先级](https://juejin.im/post/5de4fc675188252edd0e2828)（[todaycoder001](https://github.com/todaycoder001) 翻译）
+* [如何确定团队工作的优先级](https://juejin.im/post/5de4fc675188252edd0e2828)（[司徒公子](https://github.com/stuchilde) 翻译）
 * [为什么自己动手写代码能让你成为更好的开发者](https://juejin.im/post/5de88ed16fb9a016470c151a)（[quzhen12](https://github.com/quzhen12) 翻译）
-* [如何计划你的一天 —— 这里有一份攻略请查收](https://juejin.im/post/5db16664f265da4d4c201997)（[todaycoder001](https://github.com/todaycoder001) 翻译）
+* [如何计划你的一天 —— 这里有一份攻略请查收](https://juejin.im/post/5db16664f265da4d4c201997)（[司徒公子](https://github.com/stuchilde) 翻译）
 * [设置 git 别名](https://juejin.im/post/5dafc502f265da5b783f1ae1)（[EmilyQiRabbit](https://github.com/EmilyQiRabbit) 翻译）
 * [冲冠一怒为代码：论程序员与负能量](https://juejin.im/post/5d67540df265da039d32e0cc)（[Baddyo](https://github.com/Baddyo) 翻译）
 * [HTTP Security Headers 完整指南](https://juejin.im/post/5d648e766fb9a06b122f4ab4)（[cyz980908](https://github.com/cyz980908) 翻译）
@@ -80,7 +87,7 @@
 * [类（Class）与数据结构（Data Structures）](https://juejin.im/post/5d12efe7e51d455c8838e193)（[EmilyQiRabbit](https://github.com/EmilyQiRabbit) 翻译）
 * [Git：透过命令学概念 —— 第一部分](https://juejin.im/post/5d0b3c7ce51d4577531381e3)（[Baddyo](https://github.com/Baddyo) 翻译）
 * [10 分钟爆改终端](https://juejin.im/post/5d053fc56fb9a07ee85c283d)（[lihaobhsfer](https://github.com/lihaobhsfer) 翻译）
-* [剖析 Stack Overflow，开发者遇到最多的的 Bug 是哪些？](https://juejin.im/post/5d087a32518825403d14758b)（[whatbeg](https://github.com/whatbeg) 翻译）
+* [剖析 Stack Overflow，开发者遇到最多的 Bug 是哪些？](https://juejin.im/post/5d087a32518825403d14758b)（[whatbeg](https://github.com/whatbeg) 翻译）
 * [帮你高效使用 VS Code 的秘诀](https://juejin.im/post/5cd8fcedf265da03761eaa45)（[Baddyo](https://github.com/Baddyo) 翻译）
 * [我们从招聘技术经理的过程中学到了什么](https://juejin.im/post/5cdcf463f265da0392580820)（[JackEggie](https://github.com/JackEggie) 翻译）
 * [最优控制：LQR](https://juejin.im/post/5cdfe49c6fb9a07eee5e9de6)（[EmilyQiRabbit](https://github.com/EmilyQiRabbit) 翻译）
@@ -94,7 +101,7 @@
 * [如何写一篇软件工程必杀简历](https://juejin.im/post/5c6ca8b9f265da2dc13c7a10)（[EmilyQiRabbit](https://github.com/EmilyQiRabbit) 翻译）
 * [提高营销效率的工程（第一部分）](https://juejin.im/post/5c403b5ce51d452c8e6d3dc4)（[Starriers](https://github.com/Starriers) 翻译）
 * [讨论 JS ⚡：文档](https://juejin.im/post/5c4039bbe51d4551733494a6)（[Starriers](https://github.com/Starriers) 翻译）
-* [我无法想象没有 Git 别名的的场景](https://juejin.im/post/5c207bd4e51d452b7b032cf6)（[Starriers](https://github.com/Starriers) 翻译）
+* [我无法想象没有 Git 别名的场景](https://juejin.im/post/5c207bd4e51d452b7b032cf6)（[Starriers](https://github.com/Starriers) 翻译）
 * [三人研发小组的高效研发尝试](https://juejin.im/post/5c19d1846fb9a049f06a33fc)（[yuwhuawang](https://github.com/yuwhuawang) 翻译）
 * [理解编译器 — 从人类的角度（版本 2）](https://juejin.im/post/5c10b2f6e51d452ad958631f)（[Starriers](https://github.com/Starriers) 翻译）
 * [深度专注的工作 — 成为 10 倍效率的开发者的秘密武器](https://juejin.im/post/5bffb3f5f265da613a53bd4b)（[tmpbook](https://github.com/tmpbook) 翻译）

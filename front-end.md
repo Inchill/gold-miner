@@ -1,3 +1,31 @@
+* [过度使用懒加载对 Web 性能的影响](https://juejin.cn/post/7074759905197948935)（[Tong-H](https://github.com/Tong-H) 翻译）
+* [如何在网页中使用响应式图像](https://juejin.cn/post/7074199947477778439)（[zenblofe](https://github.com/zenblofe) 翻译）
+* [如何编写更简洁优雅的 React 代码](https://juejin.cn/post/7070479272380465166)（[zenblofe](https://github.com/zenblofe) 翻译）
+* [用 PNPM Workspaces 替换 Lerna + Yarn](https://juejin.cn/post/7071992448511279141)（[CarlosChenN](https://github.com/CarlosChenN) 翻译）
+* [停止这样构建你的组件❌](https://juejin.cn/post/7085634227177259022)（[zaviertang](https://github.com/zaviertang) 翻译）
+* [双向绑定会使你的 React 代码更棒](https://juejin.cn/post/7064371133243457544)（[Tong-H](https://github.com/Tong-H) 翻译）
+* [何时能有更快更强的前端开发框架](https://juejin.cn/post/7057126478600732708)（[zenblofe](https://github.com/zenblofe) 翻译）
+* [如何使用 Python 构建 GUI 程序](https://juejin.cn/post/7055662437315379231)（[YueYongDev](https://github.com/YueYongDev) 翻译）
+* [2021 年 Node.js 的发展趋势](https://juejin.cn/post/7024755055244869639/)（[Tong-H](https://github.com/Tong-H) 翻译）
+* [使用 WasmEdge 在 WebAssembly 中运行 JavaScript](https://juejin.cn/post/7014413285600526343)（[CarlosChenN](https://github.com/CarlosChenN) 翻译）
+* [使用 TypeScript 时你会想念的 Python 特性](https://juejin.cn/post/7007327298013626399)（[Tong-H](https://github.com/Tong-H) 翻译）
+* [无密码认证，安全更有保障](https://juejin.cn/post/7007820358854115336)（[NieZhuZhu](https://github.com/NieZhuZhu) 翻译）
+* [Symbol：JavaScript 中最容易被误解的特性？](https://juejin.cn/post/7007975053485113381)（[zaviertang](https://github.com/zaviertang) 翻译）
+* [简述 JavaScript 的事件捕获和事件冒泡](https://juejin.cn/post/7005558885947965454)（[zenblofe](https://github.com/zenblofe) 翻译）
+* [如何使用 ES6 新增 Symbols 代替 null](https://juejin.cn/post/7003689525507538958)（[zenblofe](https://github.com/zenblofe) 翻译）
+* [如何在第 4 阶段之前体验一个提案](https://github.com/xitu/gold-miner/pull/8921)（[PassionPenguin](https://github.com/PassionPenguin) 翻译）
+* [如何召开在线会议](https://github.com/xitu/gold-miner/pull/8739)（[PingHGao](https://github.com/PingHGao) 翻译）
+* [如何做会议记录](https://github.com/xitu/gold-miner/pull/8738)（[PingHGao](https://github.com/PingHGao) 翻译）
+* [如何参与会议](https://github.com/xitu/gold-miner/pull/8735)（[PingHGao](https://github.com/PingHGao) 翻译）
+* [如何举办一个 TC39 会议](https://github.com/xitu/gold-miner/pull/8734)（[PingHGao](https://github.com/PingHGao) 翻译）
+* [向 TC39 提交提案](https://github.com/xitu/gold-miner/pull/8686)（[NieZhuZhu](https://github.com/NieZhuZhu) 翻译）
+* [修订后的参与 TC39 标准委员会的模式](https://github.com/xitu/gold-miner/pull/8684)（[youngjuning](https://github.com/youngjuning) 翻译）
+* [阶段 3 提案评审](https://github.com/xitu/gold-miner/pull/8674)（[Usualminds](https://github.com/Usualminds) 翻译）
+* [如何写一个好的说明文件](https://github.com/xitu/gold-miner/pull/8665)（[Ashira97](https://github.com/Ashira97) 翻译）
+* [如何提供有用的反馈](https://github.com/xitu/gold-miner/pull/8653)（[PassionPenguin](https://github.com/PassionPenguin) 翻译）
+* [如何阅读一份提案草案？](https://github.com/xitu/gold-miner/pull/8627)（[PassionPenguin](https://github.com/PassionPenguin) 翻译）
+* [如何针对 ECMAScript 规范创建一个拉取请求](https://github.com/xitu/gold-miner/pull/8626)（[PassionPenguin](https://github.com/PassionPenguin) 翻译）
+* [在 TC39 提起一项提案](https://github.com/xitu/gold-miner/pull/8594)（[PassionPenguin](https://github.com/PassionPenguin) 翻译）
 * [在 JavaScript 中使用正则表达式的隐患](https://juejin.cn/post/7005168628647591950)（[jaredliw](https://github.com/jaredliw) 翻译）
 * [每个 Web 开发人员都应该知道的 4 个 iframe 安全问题](https://juejin.cn/post/7004430026187735047)（[jaredliw](https://github.com/jaredliw) 翻译）
 * [别让轮播毁了你的应用程序](https://juejin.cn/post/7003637296050225189)（[jaredliw](https://github.com/jaredliw) 翻译）
@@ -28,7 +56,7 @@
 * [下一代 CSS：@container](https://juejin.cn/post/6981456441341132837)（[PassionPenguin](https://github.com/PassionPenguin) 翻译）
 * [一个编译成 JavaScript 接口框架的案例](https://juejin.cn/post/6974632431290679303)（[Tong-H](https://github.com/Tong-H) 翻译）
 * [用 JavaScript 访问用户设备硬件的新标准](https://juejin.cn/post/6971626604933939231)（[Baddyo](https://github.com/Baddyo) 翻译）
-* [Chrome 浏览器的自定义状态伪类](https://juejin.cn/post/6969923484776398855)（[iceytea](https://github.com/iceytea) 翻译）
+* [Chrome 浏览器的自定义状态伪类](https://juejin.cn/post/6969923484776398855)（[acev](https://github.com/acev-online) 翻译）
 * [使用 CI/CD 优化前端构建的五种策略](https://juejin.cn/post/6969016052894154789)（[zenblo](https://github.com/zenblo) 翻译）
 * [CSS是编程语言吗？](https://juejin.cn/post/6969040502146465829)（[cncuckoo](https://github.com/cncuckoo) 翻译）
 * [什么是 http/3，为什么它很重要？](https://juejin.cn/post/6969399259246690341)（[keepmovingljzy](https://github.com/keepmovingljzy) 翻译）
@@ -320,7 +348,7 @@
 * [微前端：未来前端开发的新趋势 — 第一部分](https://juejin.im/post/5d0e367b6fb9a07ebf4b781a)（[Jenniferyingni](https://github.com/Jenniferyingni) 翻译）
 * [理解 React 中的高阶组件](https://juejin.im/post/5d1037966fb9a07ee4636de3)（[ZavierTang](https://github.com/ZavierTang) 翻译）
 * [JavaScript 简明代码 — 最佳实践](https://juejin.im/post/5d07abcc6fb9a07eda031858)（[xilihuasi](https://github.com/xilihuasi) 翻译）
-* [4 个 CSS 调色滤镜](https://juejin.im/post/5d039c36f265da1b60290096)（[iceytea](https://github.com/iceytea) 翻译）
+* [4 个 CSS 调色滤镜](https://juejin.im/post/5d039c36f265da1b60290096)（[acev](https://github.com/acev-online) 翻译）
 * [TypeScript 3.0: unknown 类型](https://juejin.im/post/5d04ac745188250a8b1fd203)（[shixi-li](https://github.com/shixi-li) 翻译）
 * [在 npm 上启用现在 JavaScript](https://juejin.im/post/5d15d64be51d4510a5033603)（[Mirosalva](https://github.com/Mirosalva) 翻译）
 * [npm 的经济风云 —— 上半部分](https://juejin.im/post/5d146225e51d4556db694a4b)（[Baddyo](https://github.com/Baddyo) 翻译）
@@ -379,7 +407,7 @@
 * [编写可以复用的 HTML 模板](https://juejin.im/post/5ca5b858e51d4524a918560f)（[Mirosalva](https://github.com/Mirosalva) 翻译）
 * [2019 React Redux 完全指南](https://juejin.im/post/5cac8ccd6fb9a068530111c7)（[xilihuasi](https://github.com/xilihuasi) 翻译）
 * [从 0 创建自定义元素](https://juejin.im/post/5cb2b5465188257abd66c354)（[yzw7489757](https://github.com/yzw7489757) 翻译）
-* [如何使用 Phaser 3 和 TypeScript 在浏览器中构建一个简单的游戏](https://juejin.im/post/5c91b77ee51d4574b27c9219)（[iceytea](https://github.com/iceytea) 翻译）
+* [如何使用 Phaser 3 和 TypeScript 在浏览器中构建一个简单的游戏](https://juejin.im/post/5c91b77ee51d4574b27c9219)（[acev](https://github.com/acev-online) 翻译）
 * [深入 React Hook 系统的原理](https://juejin.im/post/5c99a75af265da60ef635898)（[EmilyQiRabbit](https://github.com/EmilyQiRabbit) 翻译）
 * [Vue.js 逐渐集成 第三方 JavaScript](https://juejin.im/post/5c8e5a776fb9a070d013ef71)（[LucaslEliane](https://github.com/LucaslEliane) 翻译）
 * [监测与调试 Vue.js 的响应式系统：计算属性树（Computed Tree）](https://juejin.im/post/5c9ca62e5188251d80672b0d)（[SHERlocked93](https://github.com/SHERlocked93) 翻译）
@@ -392,7 +420,7 @@
 * [避免那些可恶的 "cannot read property of undefined" 错误](https://juejin.im/post/5c810170e51d450a453fb48e)（[Xcco](https://github.com/Xcco) 翻译）
 * [JSX 的替代方案](https://juejin.im/post/5c807f73e51d453ba723d88d)（[EmilyQiRabbit](https://github.com/EmilyQiRabbit) 翻译）
 * [选择 Grid 还是 Flex？](https://juejin.im/post/5c7ce781e51d4514913c5bc4)（[Reaper622](https://github.com/Reaper622) 翻译）
-* [Javascript - Generator-Yield/Next 和 Async-Await](https://juejin.im/post/5c7ca6d95188256ec63f289c)（[iceytea](https://github.com/iceytea) 翻译）
+* [Javascript - Generator-Yield/Next 和 Async-Await](https://juejin.im/post/5c7ca6d95188256ec63f289c)（[acev](https://github.com/acev-online) 翻译）
 * [TSLint in 2019](https://juejin.im/post/5c7c0451e51d4569951518fe)（[LucaslEliane](https://github.com/LucaslEliane) 翻译）
 * [在 JSX 代码中可以加入 console.log 吗？](https://juejin.im/post/5c7b1a146fb9a049c8502caf)（[EmilyQiRabbit](https://github.com/EmilyQiRabbit) 翻译）
 * [网速敏感的视频延迟加载方案](https://juejin.im/post/5c7b84356fb9a049ab0e5630)（[SHERlocked93](https://github.com/SHERlocked93) 翻译）
@@ -428,7 +456,7 @@
 * [Vue Router 实战手册](https://juejin.im/post/5c62ab05f265da2da83555a0)（[xutaogit](https://github.com/xutaogit) 翻译）
 * [十件你不知道的关于 WebPageTest.org 的事](https://juejin.im/post/5c679531f265da2dc45367ab)（[lsvih](https://github.com/lsvih) 翻译）
 * [2019 CSS 新属性“连字符”初探](https://juejin.im/post/5c612cfee51d4501515c8edf)（[jerryOnlyZRJ](https://github.com/jerryOnlyZRJ) 翻译）
-* [Webpack 4 的故事以及如何用正确的方式去最终配置它【更新版】](https://juejin.im/post/5c612ba351882562ea721b39)（[iceytea](https://github.com/iceytea) 翻译）
+* [Webpack 4 的故事以及如何用正确的方式去最终配置它【更新版】](https://juejin.im/post/5c612ba351882562ea721b39)（[acev](https://github.com/acev-online) 翻译）
 * [我们采用 GraphQL 技术的经验：营销技术活动](https://juejin.im/post/5c4522566fb9a049d2365cd6)（[xutaogit](https://github.com/xutaogit) 翻译）
 * [通过垃圾回收机制理解 JavaScript 内存管理](https://juejin.im/post/5c4409fbf265da616f703d5a)（[wuzhengyan2015](https://github.com/wuzhengyan2015) 翻译）
 * [新愿景: 未来的程序应用平台](https://juejin.im/post/5c2cce475188256a272ac4d6)（[skychenbo](https://github.com/skychenbo) 翻译）
